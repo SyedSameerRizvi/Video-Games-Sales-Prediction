@@ -1,5 +1,6 @@
 # Video Games Sales Prediction
 
+![VGSP](https://github.com/user-attachments/assets/68fd6dfa-916c-4d7b-8376-7e4b75b53152)
 
 
 ## 📌 Overview
